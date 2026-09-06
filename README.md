@@ -1,6 +1,5 @@
 # Driver Drowsiness Detection
 ## Table of Content
-- [Demo](#demo)
 - [Overview](#overview)
 - [Motivation](#motivation)
 - [Technical Aspect](#technical-aspect)
